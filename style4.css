@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(98, 223, 150)
+    
+}
+h1{
+    text-align: center;
+    font-style: bold;
+    text-emphasis-color: rgb(240, 71, 71);
+   
+}
+table{
+    border-collapse: separate;
+    border-spacing: 20 30px;
+    border-right: 56cm;
+    border-color: rgb(9, 9, 10);
+    margin: 0 auto;
+    border-collapse: collapse;
+     
+    
+    
+}
+.info{
+    background-color: rgb(140, 216, 97);
+    width: 400px;
+    margin-right: auto ;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px rgb(235, 130, 130);
+    transition: all 0.3s ease;
+     text-align: center;
+
+}
+.info2{
+    background-color: rgb(140, 216, 97);
+    width: 400px;
+   position: fixed;
+  bottom: 20px;
+  right: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px rgb(235, 130, 130);
+    transition: all 0.3s ease;
+     text-align: center;}
+
+
+
+     .divv{
+    background-color: rgb(204, 241, 67);
+    width: 400px;
+    margin : 50px auto ;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px rgb(235, 130, 130);
+    transition: all 0.3s ease;}
